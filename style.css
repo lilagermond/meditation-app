@@ -2,7 +2,7 @@
 body{
     padding:0;
     margin:0;
-    background-image: url("background-app.jpg");
+    background-image: url("assets/background-app.jpg");
     background-size: cover;
     background-attachment: fixed;
     height:100%;
@@ -192,7 +192,7 @@ button:focus{
 
 @media screen and (max-width: 520px){
     .time{
-        width:25%;
+        width:24%;
     }
 }
             

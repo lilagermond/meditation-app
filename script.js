@@ -1,6 +1,6 @@
 var timer = 120;
 var launchTimer;
-var music = "zen.mp3";
+var music = "https://projects.lilagermond.com/meditation/assets/zen.mp3";
 
 function setTimer(number){
     timer=number;
